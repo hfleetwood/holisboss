@@ -1,0 +1,44 @@
+.image{ 
+  width: 100px
+  height: 100px
+}
+.heading{
+color: #6300BD;
+font-family: boing;
+font-size: 70px;
+font-weight: 400;
+}
+.heading2{
+  color: #FF2CBF;
+  font-family: boing medium;
+  font-size: 50px;
+  font-weight: 300;
+}
+.intro{
+  color: #F80135;
+  font-family: boing medium;
+  font-size: 30px;
+  font-weight: 200px;
+}
+.main1{
+  color: #6300BD;
+  font-family: boing light;
+  font-size: 20px;
+  font-weight: 100px;
+}
+.main2{
+  color: #FF2CBF;
+  font-family: boing light;
+  font-size: 15px;
+  font-weight: 80px;
+}
+.button{
+  color: #6300BD;
+  font-family: boing;
+  font-size: 30px;
+  font-weight: 100px;
+}
+.parent{
+  display: flex;
+justify-content: center;
+}
